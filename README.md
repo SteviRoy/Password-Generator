@@ -1,4 +1,4 @@
-# Passeord-Generator
+# Password-Generator
 JavaScript code for password generator Webpage
 
 
